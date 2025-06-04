@@ -7,7 +7,7 @@ This is a pixel-perfect React implementation of the Adobe XD design provided for
 https://popx-app-red.vercel.app/profile
 
 ## GitHub Repository
-
+https://github.com/Sangemgit/popx-app.git
 
 ## Technologies Used
 
